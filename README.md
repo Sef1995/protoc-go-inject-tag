@@ -63,3 +63,5 @@ type IP struct {
 	Address string `protobuf:"bytes,1,opt,name=Address,json=address" json:"Address,omitempty" valid:"ip"`
 }
 ```
+
+WTF?
